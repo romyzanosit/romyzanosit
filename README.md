@@ -3,7 +3,7 @@
 </div>
 <div id="socials" align="center">
     <a href="https://github.com/romyzanosit">
-     <img alt="Static Badge" src="https://img.shields.io/badge/WebSite-black?style=for-the-badge&logo=github&logoColor=white&label=WebSite&labelColor=black">
+     <img alt="Static Badge" src="https://img.shields.io/badge/WebSite-black?style=for-the-badge&logo=github&logoColor=white&labelColor=black">
   </a>
     <a href="https://t.me/romaperec">
     <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=white&logoSize=100&color=blue&link=https%3A%2F%2Ft.me%2Fromaperec">
