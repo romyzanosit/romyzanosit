@@ -2,7 +2,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamthcXRma2ZvanZhNThlcHRhbHFiYWZvdXZoMjVzNmU5ZGgwdTkzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DyNmUtSKQZ61i/giphy.gif" width="330px" height="100px"/>
 </div>
 <div id="socials" align="center">
-    <a href="https://romyzanosit.github.io/romaz/">
+    <a href="https://romyzanosit.github.io/website/">
      <img alt="Static Badge" src="https://img.shields.io/badge/WebSite-black?style=for-the-badge&logo=github&logoColor=white&labelColor=black">
   </a>
     <a href="https://t.me/romaperec">
